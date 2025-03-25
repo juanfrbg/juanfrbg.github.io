@@ -36,15 +36,23 @@ title = 'Web resources'
 
 [The Modern JavaScript Tutorial](https://javascript.info/)
 
+[Full Stack open](https://fullstackopen.com/en/)
+
+[Full Stack JavaScript The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript)
+
 [mdn web docs JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 [JavaScript on Exercism](https://exercism.org/tracks/javascript)
+
+[node](https://nodejs.org/en)
 
 [react](https://react.dev/)
 
 [vite](https://vite.dev/)
 
 [vue](https://vuejs.org/)
+
+[nuxt](https://nuxt.com/)
 
 ### Networking
 

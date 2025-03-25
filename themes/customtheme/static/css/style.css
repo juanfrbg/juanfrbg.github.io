@@ -32,7 +32,7 @@ html {
   scroll-behavior: smooth;
   scrollbar-width: auto;
   /* Can be "auto", "thin", or "none" */
-  scrollbar-color: #705FBD #282A36;
+  scrollbar-color: #cba6f7 #282A36;
   /* Thumb and track color */
 }
 
@@ -102,7 +102,7 @@ a:hover {
 
 .index-title {
   font-family: 'JetBrainsMono-Bold';
-  color: #9D65FF;
+  color: #cba6f7;
   margin-top: 1em;
 }
 
