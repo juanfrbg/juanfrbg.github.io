@@ -18,6 +18,10 @@ title = 'Laravel resources'
 
 [Alpine.js](https://alpinejs.dev/)
 
+[Filament](https://filamentphp.com/)
+
+[Lara Zeus](https://larazeus.com/)
+
 [Inertia.js](https://inertiajs.com/)
 
 [Laravel Jetstream](https://jetstream.laravel.com/introduction.html)

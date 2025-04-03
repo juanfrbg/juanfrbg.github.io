@@ -199,8 +199,14 @@ a:hover {
   margin: 24px 0 24px 0;
 }
 
+.single-content a {
+   color: #b4befe;
+   font-weight: normal;
+}
+
 .single-content a:hover {
     color: #89b4fa;
+    font-weight: bold;
 }
 
 pre {
@@ -217,7 +223,7 @@ code {
 }
 
 :not(pre) > code {
-  color: #FFE900;
+  color: #f5c2e7;
 }
 
 /* Images */
@@ -250,7 +256,7 @@ blockquote {
 }
 
 p {
-  margin: 10px 0 10px 0;
+  margin: 20px 0 20px 0;
 }
 
 /*404 PAGE*/
